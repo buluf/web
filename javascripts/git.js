@@ -11,7 +11,7 @@ function ProfileData() {
       <div class="col-lg-8">
       <h2>Leonardo Rothier</h2>
       <p><strong>Descrição</strong> <br>
-        24 anos<br>
+        23 anos<br>
         Graduando em Ciência da Computação pela PUC-MG<br>
         Estagiario<br>
         <br>
