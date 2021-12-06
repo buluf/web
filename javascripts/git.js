@@ -12,8 +12,8 @@ function ProfileData() {
       <h2>Leonardo Rothier</h2>
       <p><strong>Descrição</strong> <br>
         24 anos<br>
-        Graduanda em Ciência da Computação pela PUC-MG<br>
-        EStagiario<br>
+        Graduando em Ciência da Computação pela PUC-MG<br>
+        Estagiario<br>
         <br>
         <strong>Profile</strong>: ${data.name}<br>
         <strong>Followers</strong>: ${data.followers}     <strong>Following</strong>: ${data.following}<br>
